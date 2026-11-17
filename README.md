@@ -19,13 +19,15 @@ Aplikasi desktop manajemen katalog produk berbasis **JavaFX**, **Maven**, dan **
 > **Catatan Penempatan Gambar:** Pastikan file tangkapan layar disimpan di dalam folder `screenshots/` pada direktori utama proyek agar tampil otomatis di halaman repositori GitHub.
 
 ### 1. Halaman Utama & Katalog Produk
-![Tampilan Utama Katalog Produk](screenshots/tampilan-utama.png)
+<img width="1243" height="982" alt="image" src="https://github.com/user-attachments/assets/607642a2-8aa0-4a95-8691-4b87924dd4d3" />
+
 
 ### 2. Mode Edit / Seleksi Kartu Produk (Update & Delete Aktif)
-![Seleksi Kartu dan Fitur Update](screenshots/fitur-update.png)
+<img width="1247" height="986" alt="image" src="https://github.com/user-attachments/assets/2a79d68b-e992-4761-b38c-7474126ec11c" />
 
 ### 3. Dialog Konfirmasi Hapus Produk
-![Konfirmasi Hapus Produk](screenshots/fitur-delete.png)
+<img width="1238" height="986" alt="image" src="https://github.com/user-attachments/assets/6aa1d6a9-9a82-4527-9f58-9601236c5f6c" />
+
 
 ---
 
